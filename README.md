@@ -13,6 +13,7 @@ LUA display for t1-t5 ores, minerals, and gasses as of patch Beta 1 r0.28.6 3/22
   - Link relay to programming boards then link pressure tile to relay (forces update when standing on pressure tile)
 
 **Supports the following materials:**
+  * Storage (Shows Container Icon For General Use)
   * Bauxite
   * Aluminium
   * Coal
