@@ -1,5 +1,5 @@
 # du-ore-pure-gas-display
-LUA display for t1-t5 ores, minerals, and gasses as of patch Beta 1 r0.28.6 3/22/22
+LUA display for t1-t5 ores, minerals, and gasses as of patch Beta 1 r0.31.0 7/18/2022
 
 ![Image of Screen](source/example.jpg?raw=true)
 
