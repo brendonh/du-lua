@@ -2,10 +2,11 @@
 -- DU: CredenceH
 -- https://github.com/EricHamby
 -- https://github.com/EricHamby/DU-Basic-Storage-Capacity
--- Contact "LOCURA MINING CO" in game for upates
+-- Join The "LOCURA MINING CO" Organization!
 system.print("----------------------------------------")
 system.print("DU-Basic-Storage-Capacity version 1.0")
-system.print("----------------------------------------"
+system.print("https://github.com/EricHamby/DU-Basic-Storage-Capacity")
+system.print("----------------------------------------")
 unit.hideWidget()
 Material = "Storage" --export: (Default: Storage) Ore Name
 Volume_Available_KL = "1433" --export: (Default: 1433) Available Volume (KL) in Hub or Container
