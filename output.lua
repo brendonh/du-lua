@@ -1,9 +1,10 @@
 -- Code Edits By EricHamby
 -- DU: CredenceH
 -- https://github.com/EricHamby
+-- https://github.com/EricHamby/DU-Basic-Storage-Capacity
 -- Contact "LOCURA MINING CO" in game for upates
 system.print("----------------------------------------")
-system.print("LOCURA-MINING-CO version 1.0")
+system.print("DU-Basic-Storage-Capacity version 1.0")
 system.print("----------------------------------------"
 unit.hideWidget()
 Material = "Storage" --export: (Default: Storage) Ore Name
