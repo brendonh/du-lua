@@ -1,4 +1,4 @@
--- Code By EricHamby
+-- Code Edits By EricHamby
 -- https://github.com/EricHamby
 -- Contact "LOCURA MINING CO" in game for upates
 system.print("----------------------------------------")
