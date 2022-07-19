@@ -1,4 +1,5 @@
 -- Code Edits By EricHamby
+-- DU: CredenceH
 -- https://github.com/EricHamby
 -- Contact "LOCURA MINING CO" in game for upates
 system.print("----------------------------------------")
