@@ -1,3 +1,6 @@
+:heavy_exclamation_mark: | So much has been changed I moved it into its own repo. (https://github.com/LocuraDU/DU-Locura-Storage-Info). Development will continue there. No more development will happen on this repo.
+:---: | :---
+
 # du-ore-pure-gas-display
 LUA display for t1-t5 ores, minerals, general storage, and gasses as of patch Beta v0.31.0 7/18/2022
 
